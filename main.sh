@@ -6,3 +6,4 @@ unzip typecho.zip
 cd usr/themes
 wget https://github.com/wehaox/Typecho-Butterfly/releases/download/1.5.0/butterfly_Release1.5.0.zip
 unzip butterfly_Release1.5.0.zip
+#after download if you dont have reCAPTCHA plugin del line 
