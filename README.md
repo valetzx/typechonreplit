@@ -1,5 +1,5 @@
 # typechonreplit
-在Replit部署Typecho博客+[Butterfly主题移植](https://blog.wehaox.com/archives/typecho-butterfly.html#cl-3 )
+在Replit部署Typecho博客 + [Butterfly主题移植](https://blog.wehaox.com/archives/typecho-butterfly.html#cl-3 )
 
 个人版（不推荐）：
 
