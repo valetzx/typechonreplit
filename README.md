@@ -17,4 +17,4 @@
 
 默认请使用sqlite数据库
 
-postgresql数据库版：bhttps://github.com/valetzx/typechonreplitwithpg
+postgresql数据库版：https://github.com/valetzx/typechonreplitwithpg
